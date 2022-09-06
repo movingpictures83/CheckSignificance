@@ -1,0 +1,5 @@
+csvfile	samplesMetadata.csv
+ignore	ignore.txt
+variable	Cocain_Use
+val1	yes
+val2	no

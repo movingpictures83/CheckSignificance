@@ -1,0 +1,13 @@
+interleukin6: Ttest_indResult(statistic=1.3679200766887194, pvalue=0.17770736458665834)
+lab_age: Ttest_indResult(statistic=1.1610293522005555, pvalue=0.2513714997286741)
+agr_birth_gender: Ttest_indResult(statistic=-0.28097574347450843, pvalue=0.7799366366414123)
+agr_gender: Ttest_indResult(statistic=-0.7686151382644179, pvalue=0.44588718630012647)
+eme_hisp_lati: Ttest_indResult(statistic=-2.02837021134844, pvalue=0.048090863836306834)
+edu_level: Ttest_indResult(statistic=-0.36616691861841233, pvalue=0.7158495348637104)
+column 'afi_incom_1' has unappropriated type
+art_antiviral: Ttest_indResult(statistic=1.0000000000000009, pvalue=0.32232521852111584)
+cd4: Ttest_indResult(statistic=-0.9349778885566429, pvalue=0.3544797911394857)
+hiv_detected: Ttest_indResult(statistic=1.4457947920244991, pvalue=0.1547328326354234)
+column 'hiv_vload' has unappropriated type
+fs_total: Ttest_indResult(statistic=0.4571635906556756, pvalue=0.6496158897627154)
+fd_is: Ttest_indResult(statistic=-0.8593378488473195, pvalue=0.394425628829696)

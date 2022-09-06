@@ -1,0 +1,2 @@
+Prefix plugins/CheckSignificance/example
+Plugin CheckSignificance inputfile parameters.txt outputfile significance.txt

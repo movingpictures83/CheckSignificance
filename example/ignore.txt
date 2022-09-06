@@ -1,0 +1,6 @@
+Cocain_Use
+pid
+pilotpid
+race
+filter_$
+Race_Ethnicity
